@@ -40,7 +40,7 @@ The choice of technology stack is python and selenium. The assumptions made are 
 **Run Test With Report**
 
     ```bash
-    pytest --html=reports/report.html --self-contained-html
+     pytest --html=reports/report.html --self-contained-html
     ```
 
 
