@@ -41,6 +41,5 @@ The choice of technology stack is python and selenium. The assumptions made are 
 
     ```bash
      pytest --html=reports/report.html --self-contained-html
-    ```
 
 
