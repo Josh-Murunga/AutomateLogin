@@ -11,7 +11,8 @@ from selenium.webdriver.support import expected_conditions as EC
 url = "https://qa.kenyahmis.org/openmrs/spa/login"
 username = "admin"
 password = "Admin123"
-driver_path = "./drivers/chromedriver.exe"
+# driver_path = "./drivers/chromedriver.exe"
+driver_path = "./drivers/chromedriver"
 
 # Set up Chrome options
 options = Options()
