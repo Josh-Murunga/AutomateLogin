@@ -9,7 +9,8 @@ from selenium.webdriver.support import expected_conditions as EC
 
 # Constants
 url = "https://qa.kenyahmis.org/openmrs/spa/login"
-driver_path = "./drivers/chromedriver.exe"
+# driver_path = "./drivers/chromedriver.exe"
+driver_path = "./drivers/chromedriver"
 
 # Set up Chrome options
 options = Options()
